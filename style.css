@@ -1,0 +1,51 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: darkgray;
+}
+.header_div img{
+border-radius: 70%;
+width: 100px;
+height:100px;
+}
+.header_div{
+    background-color:beige;
+color:black;
+}
+.webcam_div{
+    background-color: beige;
+    margin-top: 20px;
+    padding: 10px;
+border: 3px dashed rgb(182, 176, 176);
+}
+.webcam_div label{
+box-shadow:5px 5px 12px rgb(182, 179, 179);
+}
+#camera,#result{
+    box-shadow:5px 5px 12px rgb(182, 179, 179);
+    width: 300px;
+    height:300px
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+
+    background-color:beige;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow:5px 5px 12px rgb(65, 64, 64);
+
+}
+.footer_div img{
+    width: 70px;
+}
+
+.footer{
+    position: fixed;
+    color: darkslategrey;
+    bottom: 0;
+    width: 100%;
+    background-color:azure;
+    line-height: 3;
+    text-align: center;
+}
